@@ -12,7 +12,9 @@ h2{
   color: white;
   text-align: center;
   letter-spacing: 3px;
+
 }
 body{
   background-color: #DBBEB3;
+  line-height: 1;
 }
