@@ -12,9 +12,8 @@ h2{
   color: white;
   text-align: center;
   letter-spacing: 3px;
-
+  font-size: 10px;
 }
 body{
   background-color: #DBBEB3;
-  line-height: 1;
 }
