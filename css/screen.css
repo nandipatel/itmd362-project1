@@ -22,8 +22,16 @@
     height: 400px;
     width: 50%;
     text-align: center;
-    font-size: 15px;
-
+    font-size: 25px;
+  }
+  #c2{
+    border-style: solid;
+    border-radius: 5px;
+    background: #FBEEE6;
+    height: 400px;
+    width: 50%;
+    text-align: center;
+    font-size: 25px;
   }
 }
 @media screen and (max-width: 992px){
