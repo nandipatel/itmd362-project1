@@ -3,7 +3,9 @@
 @media screen and (max-width: 992px){
 }
 h2{
-  background-color: black;
+  border-style: solid;
+  border-radius: 10px;
+  background: black;
   color: white;
   text-align: center;
 }
