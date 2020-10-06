@@ -21,7 +21,7 @@
     border-radius: 5px;
     background: #FBEEE6;
     height: 250px;
-    width: 565px;
+    width: 550px;
     margin: 10px;
     text-align: center;
     font-size: 25px;
@@ -37,6 +37,8 @@
     font-size: 25px;
   }
 }
+
+
 @media screen and (max-width: 992px){
   h2{
     border-style: solid;
