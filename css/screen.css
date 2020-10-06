@@ -7,14 +7,12 @@ h2{
   border-radius: 5px;
   background: black;
   padding: 20px;
-  height: 15px;
+  height: 20px;
   width: auto;
   color: white;
   text-align: center;
   letter-spacing: 3px;
   font-size: 30px;
-  text-align: center;
-  vertical-align: middle;
 }
 body{
   background-color: #DBBEB3;
