@@ -38,7 +38,7 @@ body{
   background-color: #DBBEB3;
 }
 input[type=submit] {
-  width: 100%;
+  width: 80%;
   background-color: black;
   color: white;
   border-radius: 4px;
