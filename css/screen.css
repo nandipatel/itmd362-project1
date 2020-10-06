@@ -12,7 +12,7 @@
     font-size: 28px;
   }
 }
-@media screen and (min-width: 992px){
+@media screen and (max-width: 992px){
   h2{
     border-style: solid;
     border-radius: 5px;
