@@ -37,3 +37,11 @@
 body{
   background-color: #DBBEB3;
 }
+input [type=submit]:hover {
+  background-color: lightblue;
+}
+input [type=submit] {
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+}
