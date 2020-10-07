@@ -36,8 +36,6 @@ input[type=submit]:hover {
     color: white;
     text-align: center;
     letter-spacing: 3px;
-    font-family: 'News Cycle', sans-serif;
-    font-weight: 400px;
     font-size: 32px;
   }
   h3{
