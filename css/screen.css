@@ -91,6 +91,8 @@
   #c-container{
     display: inline;
   }
+  input[type=submit] {
+    padding: 9px 13px;
 }
 body{
   background-color: #DBBEB3;
