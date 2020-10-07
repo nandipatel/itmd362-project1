@@ -1,4 +1,4 @@
-@media screen and (min-width: 510px){
+@media screen and (min-width: 480px){
   h2{
     border-style: solid;
     border-radius: 5px;
@@ -57,7 +57,7 @@
 }
 
 
-@media screen and (min-width: 768px){
+@media screen and (max-width: 992px){
   h2{
     border-style: solid;
     border-radius: 5px;
