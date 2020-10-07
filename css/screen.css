@@ -97,7 +97,8 @@ body{
   background-color: #DBBEB3;
 }
 
-input[type=text]{
+input[type=text], input[type=email] {
+  background-color: none;
   border: none;
   border-bottom: 2px solid black;
 }
