@@ -82,6 +82,8 @@
     text-align: center;
     font-size: 25px;
   }
+  #c-container{
+    display: inline;
 }
 body{
   background-color: #DBBEB3;
