@@ -104,7 +104,7 @@ input[type=text], input[type=email] {
   border-bottom: 2px solid black;
 }
 input[type=text]:focus {
-  border: 3px solid;
+  border: 5px solid;
 }
 
 input[type=submit] {
