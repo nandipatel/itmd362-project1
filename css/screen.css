@@ -92,8 +92,7 @@
     display: inline;
   }
   input[type=submit] {
-    padding: 9px 10px;
-    color: black;
+    margin-top: 2px;
   }
 }
 body{
