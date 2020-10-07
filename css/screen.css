@@ -98,7 +98,8 @@ body{
 }
 
 input[type=text], input[type=email] {
-  background-color: red;
+  background-color: none;
+  color: black;
   border: none;
   border-bottom: 2px solid black;
 }
