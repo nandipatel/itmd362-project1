@@ -96,6 +96,9 @@
 body{
   background-color: #DBBEB3;
 }
+input[type=text]:focus {
+  border: 3px solid #555;
+}
 input[type=submit] {
   width: 80%;
   background-color: black;
