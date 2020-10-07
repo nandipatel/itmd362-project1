@@ -9,6 +9,9 @@
     color: white;
     text-align: center;
     letter-spacing: 3px;
+    font-family: OstrichSans-Black;
+    font-weight: 900;
+    font-style: normal;
     font-size: 30px;
   }
   h3{
