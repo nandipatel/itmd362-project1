@@ -1,5 +1,6 @@
 body{
   background-color: #DBBEB3;
+  font-family: 'Playfair Display', serif;
 }
 input[type=text], input[type=email] {
   background-color: #FBEEE6;
@@ -36,7 +37,7 @@ input[type=submit]:hover {
     color: white;
     text-align: center;
     letter-spacing: 3px;
-    font-size: 32px;
+    font-size: 33px;
   }
   h3{
     margin: 10px;
