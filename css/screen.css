@@ -1,6 +1,6 @@
 body{
   background-color: #DBBEB3;
-  
+  font-family: 'Playfair Display', serif;
 }
 input[type=text], input[type=email] {
   background-color: #FBEEE6;
