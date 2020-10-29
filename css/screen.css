@@ -1,12 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 body{
-  background-color: #DBBEB3;
+  background-color: #B6C3CC;
   font-family: 'Playfair Display', serif;
 }
 input[type=text], input[type=email] {
-  background-color: #FBEEE6;
+  background-color: #E2E8ED;
   color: black;
   border: none;
   border-bottom: 2px solid black;
+  padding: 6px;
+  width: 100%;
+  font-family: 'Playfair Display', serif;
 }
 input[type=text]:focus {
   border: 3px solid;
@@ -21,39 +25,41 @@ input[type=submit] {
   margin: 7px 0;
   padding: 10px 16px;
   cursor: pointer;
+  font-family: 'Fjalla One', sans-serif;
+  letter-spacing: 4px;
 }
 input[type=submit]:hover {
-  background-color: lightblue;
+  background-color: #343D52;
 }
-
 @media screen and (min-width: 480px){
   h2{
     border-style: solid;
     border-radius: 5px;
-    background: black;
-    padding: 20px;
-    height: 20px;
+    background-color: black;
+    padding: 25px;
+    height: 25px;
     width: auto;
     color: white;
     text-align: center;
     letter-spacing: 3px;
-    font-family: 'Cardo', serif;
-    font-size: 34px;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 45px;
   }
   h3{
     margin: 10px;
     text-align: center;
     font-size: 28px;
+    line-height: 34.297px; /* 2.144em */
   }
   button{
     font-family: 'Playfair Display', serif;
     font-size: 20px;
-    background-color: #FBEEE6;
+    background-color: #B6C3CC;
     color: black;
     width: 30%;
     border-radius: 4px;
     border: none;
-    margin-left: 420px;
+    margin-left: auto;
     padding: 10px 16px;
   }
   #c-container{
@@ -64,26 +70,26 @@ input[type=submit]:hover {
   #c1{
     border-style: solid;
     border-radius: 5px;
-    background: #FBEEE6;
-    height: 280px;
+    background: #E2E8ED;
+    height: 430px;
     width: 550px;
     margin: 10px;
     margin-left: 30px;
     margin-top: 0px;
     text-align: center;
     font-size: 25px;
-    line-height: 50px;
+    line-height: 50.215px; /* 3.138em */
   }
   #c2{
     border-style: solid;
     border-radius: 5px;
-    background: #FBEEE6;
-    height: 280px;
+    background: #E2E8ED;
+    height: 430px;
     width: 550px;
     margin-right: 585px;
     text-align: center;
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 25px;
+    line-height: 50.215px;/* 3.138em */
   }
 }
 
@@ -93,20 +99,18 @@ input[type=submit]:hover {
     border-style: solid;
     border-radius: 5px;
     background: black;
-    padding: 15px;
-    height: 15px;
     width: auto;
     color: white;
     text-align: center;
     letter-spacing: 3px;
-    font-size: 28px;
+    font-size: 40px;
   }
   h3{
     text-align: center;
     font-size: 20px;
   }
   button{
-    background-color: #FBEEE6;
+    background-color: #E2E8ED;
     color: black;
     width: 30%;
     border-radius: 4px;
@@ -118,30 +122,29 @@ input[type=submit]:hover {
   #c1{
     border-style: solid;
     border-radius: 5px;
-    background: #FBEEE6;
+    background: #E2E8ED;
     height: 280px;
     width: 80%;
     margin: auto;
     text-align: center;
     font-size: 23px;
-    line-height: 40px;
+    line-height: 45.65px; /* 2.853em */
   }
   #c2{
     border-style: solid;
     border-radius: 5px;
-    background: #FBEEE6;
+    background: #E2E8ED;
     height: 300px;
     width: 80%;
     margin: auto;
     margin-top: 10px;
     text-align: center;
     font-size: 20px;
-    line-height: 30px;
+    line-height: 34.297px; /* 2.144em */
   }
   #c-container{
     display: inline;
   }
-
   #quote{
     visibility: hidden;
   }
